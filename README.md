@@ -43,4 +43,4 @@ $ rails server
 * **email** : sample@email.com
 * **password** : password
 
-20201017 A7
+20201017 A7 * Git(HTTPSからSSH通信へ変更)
