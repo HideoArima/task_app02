@@ -43,4 +43,4 @@ $ rails server
 * **email** : sample@email.com
 * **password** : password
 
-20201017
+20201017 A7
