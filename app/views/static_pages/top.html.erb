@@ -10,7 +10,7 @@
       <% if logged_in? %>
         <%= link_to "Sign Up", signup_path, class: "btn btn-lg btn-primary" %>
       <% else %>
-        <%= link_to "Log In", login_path, class: "btn btn-lg btn-primary" %>
+        <%= link_to "アカウント作成", login_path, class: "btn btn-lg btn-primary" %>
       <% end %>
          <div style="margin-top: 10px;">
           <a class="btn btn-danger" href="/guest-admin/login">ゲストログイン（管理権限）</a>
